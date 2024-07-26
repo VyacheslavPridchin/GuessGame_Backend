@@ -248,7 +248,7 @@
 
 Возвращает текущие действия в игровой комнате.
 
-**Response:** `ActionState`
+**Response:** `enum`: `{ WaitPlayers, WaitAnswers, AnnouncementResults, Complete, Interrupted }`
 
 ---
 
