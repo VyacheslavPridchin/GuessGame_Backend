@@ -82,7 +82,7 @@
 
 В `data` может вернуться любой тип данных. Далее в документации будет указываться возвращаемый тип.
 
-<details><summary>Reception API</summary>
+<details><summary>/reception</summary>
  
 #### Reception
 
@@ -146,7 +146,7 @@
 
 </details>
 
-<details><summary>Queue API</summary>
+<details><summary>/queue</summary>
  
 #### Queue
 
@@ -200,7 +200,7 @@
 
 </details>
 
-<details><summary>GameRoom API</summary>
+<details><summary>/gameroom</summary>
  
 #### GameRoom
 
