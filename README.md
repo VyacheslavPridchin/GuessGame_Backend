@@ -11,7 +11,7 @@
 [Unity Клиент](https://github.com/VyacheslavPridchin/GuessGame_UnityClient)
 
 ## Реализация
-Было принято решение разделить Back-end на 3 проекта: Abstractions, Silo и WebAPI. 
+Было принято решение разделить backend на 3 проекта: Abstractions, Silo и WebAPI. 
 
 ![Architecture](Media/architecture_1.png)
 
